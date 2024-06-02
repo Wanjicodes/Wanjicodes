@@ -1,0 +1,12 @@
+when u changed file:
+1. Add changes to the git:
+
+git add .
+
+2. Specify which shit you have done:
+
+git commit -m "I've added some shit to my file"
+
+3. Push it to the server:
+
+git push
